@@ -1,0 +1,214 @@
+{
+  "projectName": "react-minimal-pie-chart",
+  "projectOwner": "toomuchdesign",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "toomuchdesign",
+      "name": "Andrea Carraro",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4573549?v=4",
+      "profile": "http://www.andreacarraro.it",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "test",
+        "review"
+      ]
+    },
+    {
+      "login": "rufman",
+      "name": "Stephane Rufer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1128559?v=4",
+      "profile": "https://github.com/rufman",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "jaaberg",
+      "name": "Jørgen Aaberg",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1413255?v=4",
+      "profile": "https://github.com/jaaberg",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "TobiahRex",
+      "name": "Tobiah Rex",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16377119?v=4",
+      "profile": "http://www.tobiahrex.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "edwardfhsiao",
+      "name": "Edward Xiao",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11728228?v=4",
+      "profile": "https://edwardxiao.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "konsumer",
+      "name": "David Konsumer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/83857?v=4",
+      "profile": "https://keybase.io/konsumer",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas"
+      ]
+    },
+    {
+      "login": "nehoraigold",
+      "name": "Ori",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44398222?v=4",
+      "profile": "https://github.com/nehoraigold",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "manosim",
+      "name": "Emmanouil Konstantinidis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6333409?v=4",
+      "profile": "https://www.manos.im/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "yuruc",
+      "name": "yuruc",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5884342?v=4",
+      "profile": "https://github.com/yuruc",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "luca-esse",
+      "name": "luca-esse ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16616566?v=4",
+      "profile": "https://www.linkedin.com/in/luca-schiavone-7270a8138/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Osuka42g",
+      "name": "Oscar Mendoza",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5117006?v=4",
+      "profile": "http://twitter.com/Osuka42",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "damien-git",
+      "name": "damien-git",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7503971?v=4",
+      "profile": "https://github.com/damien-git",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "vibl",
+      "name": "Vianney Stroebel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/628818?v=4",
+      "profile": "https://www.linkedin.com/in/vianneystroebel/",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "xumi",
+      "name": "Maxime Zielony",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/204001?v=4",
+      "profile": "http://xumi.fr",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "razked",
+      "name": "Raz Kedem",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39411034?v=4",
+      "profile": "https://github.com/razked",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "slumbering",
+      "name": "Blocksmith",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1186424?v=4",
+      "profile": "https://github.com/slumbering",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "majelbstoat",
+      "name": "Jamie Talbot",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/425787?v=4",
+      "profile": "http://jamietalbot.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "airoscar",
+      "name": "Oscar Yixuan Chen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22269057?v=4",
+      "profile": "http://timeslikethese.ca",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RuiRocha1991",
+      "name": "RuiRocha1991",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29250466?v=4",
+      "profile": "https://github.com/RuiRocha1991",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Romaboy",
+      "name": "Roman Kushyn",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42248135?v=4",
+      "profile": "https://github.com/Romaboy",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "bogas04",
+      "name": "Divjot Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6177621?v=4",
+      "profile": "https://bogas04.github.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "repoType": "github",
+  "commitConvention": "none"
+}
